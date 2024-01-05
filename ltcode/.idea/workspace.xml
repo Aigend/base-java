@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8fb1b48-7648-4988-bd21-c76e81c91e47" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/com/collecation/list/ArrayListTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="/usr/local/maven" />
+        <option name="userSettingsFile" value="/usr/local/maven/config/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Q0YnhLoXQouUmTMLXrPYA9PhAq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/wenlong.jin/Desktop/code/java_code/ltcode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.collecation.set" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DynamicProxy">
+    <configuration name="BlockQueueThreadTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thread.BlockQueueThreadTest" />
+      <module name="ltcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlockQueueThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thread.BlockQueueThreadTest" />
+      <module name="ltcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.reflect.DynamicProxy" />
+      <module name="ltcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstanceofTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.base.cls.InstanceofTest" />
+      <module name="ltcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.base.cls.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thread.ThreadPoolTest" />
+      <module name="ltcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DynamicProxy" />
+        <item itemvalue="Application.InstanceofTest" />
+        <item itemvalue="Application.BlockQueueThreadTest (1)" />
+        <item itemvalue="Application.BlockQueueThreadTest" />
+        <item itemvalue="Application.ThreadPoolTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8fb1b48-7648-4988-bd21-c76e81c91e47" name="Changes" comment="" />
+      <created>1684492137716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684492137716</updated>
+      <workItem from="1684492138824" duration="2760000" />
+      <workItem from="1684665988059" duration="13000" />
+      <workItem from="1684721976721" duration="8422000" />
+      <workItem from="1684910029067" duration="17154000" />
+      <workItem from="1685253007109" duration="21018000" />
+      <workItem from="1685586075203" duration="16704000" />
+      <workItem from="1685936152810" duration="6972000" />
+      <workItem from="1686650717099" duration="338000" />
+      <workItem from="1686651058282" duration="20000" />
+      <workItem from="1686651081754" duration="640000" />
+      <workItem from="1686652083954" duration="29000" />
+      <workItem from="1686652118562" duration="9000" />
+      <workItem from="1686652129323" duration="88000" />
+      <workItem from="1686652244525" duration="7000" />
+      <workItem from="1686652272472" duration="662000" />
+      <workItem from="1686792078770" duration="1062000" />
+      <workItem from="1686798414792" duration="2800000" />
+      <workItem from="1686886976852" duration="54659000" />
+      <workItem from="1689318600889" duration="746000" />
+      <workItem from="1690446709916" duration="10812000" />
+      <workItem from="1690853517395" duration="3650000" />
+      <workItem from="1691027558239" duration="410000" />
+      <workItem from="1691398795644" duration="5000" />
+      <workItem from="1691662224531" duration="1556000" />
+      <workItem from="1694070056047" duration="1967000" />
+      <workItem from="1697812864816" duration="2444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
